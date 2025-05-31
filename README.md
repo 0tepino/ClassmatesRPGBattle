@@ -1,7 +1,3 @@
-﻿=====================================
-
-Classmates RPG Battle
-
 GAME DESCRIPTION:
 -----------------
 A turn-based RPG battle simulator featuring 5 unique classroom warriors, inspired by Mobile Legends hero name skills. 
