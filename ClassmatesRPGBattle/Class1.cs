@@ -42,7 +42,7 @@ namespace ClassroomBattleSimulator
                 set
                 {
                     _value = value;
-                    Invalidate(); // Redraw the control when value changes
+                    Invalidate(); 
                 }
             }
 
@@ -58,7 +58,7 @@ namespace ClassroomBattleSimulator
 
             public HealthBar()
             {
-                this.DoubleBuffered = true; // Prevent flickering
+                this.DoubleBuffered = true;
                 this.Height = 20;
             }
 
