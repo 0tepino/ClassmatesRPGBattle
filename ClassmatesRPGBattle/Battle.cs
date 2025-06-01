@@ -350,7 +350,6 @@ namespace ClassroomBattleSimulator
                     DrawAttackEffects(g, boxSize);
                 }
 
-                // Draw hit effect with red glow
                 if (isHit)
                 {
                     DrawHitEffect(g, boxSize, currentColor);
